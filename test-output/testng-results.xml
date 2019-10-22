@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59777" started-at="2019-10-22T08:30:45Z" finished-at="2019-10-22T08:31:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59777" started-at="2019-10-22T08:30:45Z" finished-at="2019-10-22T08:31:45Z">
+      <class name="com.seleniumcpsatchallenge.qa.problemstatements.ProblemStatementMeriPustakTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.seleniumcpsatchallenge.qa.problemstatements.ProblemStatementMeriPustakTest@6093dd95]" name="setUp" is-config="true" duration-ms="8559" started-at="2019-10-22T14:00:45Z" finished-at="2019-10-22T14:00:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logoForMeriPustakTest()[pri:1, instance:com.seleniumcpsatchallenge.qa.problemstatements.ProblemStatementMeriPustakTest@6093dd95]" name="logoForMeriPustakTest" duration-ms="467" started-at="2019-10-22T14:00:53Z" finished-at="2019-10-22T14:00:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoForMeriPustakTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.seleniumcpsatchallenge.qa.problemstatements.ProblemStatementMeriPustakTest@6093dd95]" name="tearDown" is-config="true" duration-ms="5244" started-at="2019-10-22T14:00:54Z" finished-at="2019-10-22T14:00:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.seleniumcpsatchallenge.qa.problemstatements.ProblemStatementMeriPustakTest@6093dd95]" name="setUp" is-config="true" duration-ms="6903" started-at="2019-10-22T14:00:59Z" finished-at="2019-10-22T14:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="twitterHrefTest()[pri:2, instance:com.seleniumcpsatchallenge.qa.problemstatements.ProblemStatementMeriPustakTest@6093dd95]" name="twitterHrefTest" duration-ms="4854" started-at="2019-10-22T14:01:06Z" finished-at="2019-10-22T14:01:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twitterHrefTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.seleniumcpsatchallenge.qa.problemstatements.ProblemStatementMeriPustakTest@6093dd95]" name="tearDown" is-config="true" duration-ms="4390" started-at="2019-10-22T14:01:11Z" finished-at="2019-10-22T14:01:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.seleniumcpsatchallenge.qa.problemstatements.ProblemStatementMeriPustakTest@6093dd95]" name="setUp" is-config="true" duration-ms="6886" started-at="2019-10-22T14:01:15Z" finished-at="2019-10-22T14:01:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickAndVerifyCartMessageTest()[pri:3, instance:com.seleniumcpsatchallenge.qa.problemstatements.ProblemStatementMeriPustakTest@6093dd95]" name="clickAndVerifyCartMessageTest" duration-ms="1044" started-at="2019-10-22T14:01:22Z" finished-at="2019-10-22T14:01:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickAndVerifyCartMessageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.seleniumcpsatchallenge.qa.problemstatements.ProblemStatementMeriPustakTest@6093dd95]" name="tearDown" is-config="true" duration-ms="4448" started-at="2019-10-22T14:01:23Z" finished-at="2019-10-22T14:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.seleniumcpsatchallenge.qa.problemstatements.ProblemStatementMeriPustakTest@6093dd95]" name="setUp" is-config="true" duration-ms="6969" started-at="2019-10-22T14:01:28Z" finished-at="2019-10-22T14:01:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addJavaBookAndVerifyCardMessageTest()[pri:4, instance:com.seleniumcpsatchallenge.qa.problemstatements.ProblemStatementMeriPustakTest@6093dd95]" name="addJavaBookAndVerifyCardMessageTest" duration-ms="5667" started-at="2019-10-22T14:01:35Z" finished-at="2019-10-22T14:01:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addJavaBookAndVerifyCardMessageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.seleniumcpsatchallenge.qa.problemstatements.ProblemStatementMeriPustakTest@6093dd95]" name="tearDown" is-config="true" duration-ms="4306" started-at="2019-10-22T14:01:40Z" finished-at="2019-10-22T14:01:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.seleniumcpsatchallenge.qa.problemstatements.ProblemStatementMeriPustakTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
